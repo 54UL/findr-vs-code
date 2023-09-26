@@ -16,7 +16,7 @@
       {
         "command": "FINDR.helloWorld",
         "title": "Hello World"
-      }
+      },
       {
         "command": "FINDR.multiSelectHighlight",
         "title": "Highlight multi selection"
